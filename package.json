@@ -1,8 +1,8 @@
 {
   "name": "react-sidedrawer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple side drawer for React",
-  "main": "./src/dist_modules/index.js",
+  "main": "./dist_modules/index.js",
   "scripts": {
     "build": "webpack -p",
     "build_modules": "babel src --out-dir dist_modules",
