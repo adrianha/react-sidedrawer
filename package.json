@@ -1,6 +1,6 @@
 {
   "name": "react-sidedrawer",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Simple side drawer for React",
   "main": "./dist_modules/index.js",
   "scripts": {

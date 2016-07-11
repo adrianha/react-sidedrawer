@@ -1,9 +1,16 @@
-# React-Sidedrawer - http://react-sidebar.surge.sh/
+# React-Sidedrawer - http://react-sidedrawer.surge.sh/
 React-sidedrawer is a simple sidedrawer based and easily extendable.
 
 ### Installation
 ```sh
 $ npm i react-sidedrawer --save
+```
+
+### How to Use
+See demo on src folder
+```sh
+src/demo.js
+src/demo.scss
 ```
 
 ### Supported Property Types
@@ -12,8 +19,8 @@ $ npm i react-sidedrawer --save
     * overlay: string
     * sidedrawer: string,
 * onClose: PropTypes.func.isRequired,
-* overlayClassName: PropTypes.string,
-* sidebarClassName: PropTypes.string
+* overlayClassName: PropTypes.string, // Default overlay className
+* sidebarClassName: PropTypes.string // Default sidebar className
 
 ### Notes
 PR Welcomed!
